@@ -1,0 +1,18 @@
+[submodule "etherpad-lite"]
+	path = etherpad-lite
+	url = git@github.com:ether/etherpad-lite.git
+[submodule "ep-portal"]
+	path = ep-portal
+	url = git@github.com:d-a-n/ep_portal.git
+[submodule "ep-bookmarklets"]
+	path = ep-bookmarklets
+	url = git@github.com:shownotes/EtherpadBookmarklets.git
+[submodule "ep_defaultPadText"]
+	path = ep_defaultPadText
+	url = git@github.com:mluto/ep_defaultPadText.git
+[submodule "ep_insertTimestamp"]
+	path = ep_insertTimestamp
+	url = git@github.com:mluto/ep_insertTimestamp.git
+[submodule "ep_osfExport"]
+	path = ep_osfExport
+	url = git@github.com:mluto/ep_osfExport.git
