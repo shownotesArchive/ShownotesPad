@@ -19,3 +19,6 @@
 [submodule "show-pad"]
 	path = show-pad
 	url = git@github.com:shownotes/show-pad.git
+[submodule "OSF-in-a-Nutshell"]
+	path = OSF-in-a-Nutshell
+	url = https://github.com/shownotes/OSF-in-a-Nutshell.git
